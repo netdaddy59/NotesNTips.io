@@ -1,0 +1,56 @@
+I want learn github. Can you create a roadmap to learn in one month with daily plan, and resources for learning including links?
+
+Certainly! Here is a one-month roadmap for learning GitHub, with daily tasks and resources:
+
+Week 1:
+Day 1: Introduction to Git and GitHub
+Familiarize yourself with the basic concepts of Git and GitHub.
+Watch the "What is Git?" video on the official Git website: https://git-scm.com/video/what-is-git
+Read the "GitHub Explained" guide on the official GitHub website: https://guides.github.com/activities/hello-world/
+
+Day 2: Creating a GitHub account
+Create a GitHub account.
+Verify your email address and add a profile picture and description.
+Explore the GitHub user interface and understand its basic features.
+
+Day 3: Creating a repository
+Learn how to create a new repository on GitHub.
+Familiarize yourself with the various repository settings, including collaboration and access control.
+Follow the "Create a repo" guide on the official GitHub website: https://docs.github.com/en/github/getting-started-with-github/create-a-repo
+
+Day 4: Cloning a repository
+Learn how to clone an existing repository to your local machine.
+Familiarize yourself with the various Git commands used to clone a repository.
+Follow the "Cloning a repository" guide on the official GitHub website: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
+
+Day 5: Basic Git commands
+Learn the basic Git commands, including adding, committing, and pushing changes to a repository.
+Familiarize yourself with the various Git workflows, including the centralized and distributed models.
+Read the "Git Basics" guide on the official Git website: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+
+Week 2:
+Day 6: Branching and merging
+Learn how to create and manage branches in Git.
+Familiarize yourself with the various merging strategies, including fast-forward and non-fast-forward merges.
+Read the "Git Branching" guide on the official Git website: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+
+Day 7: Collaborating on GitHub
+Learn how to collaborate on a GitHub repository with other users.
+Familiarize yourself with the various collaboration workflows, including pull requests and issues.
+Follow the "Collaborating with issues and pull requests" guide on the official GitHub website: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests
+
+Week 3:
+Day 8: GitHub Pages
+Learn how to create a website using GitHub Pages.
+Familiarize yourself with the various templates and customization options available.
+Follow the "Creating a GitHub Pages site" guide on the official GitHub website: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+Day 9: GitHub Actions
+Learn how to use GitHub Actions to automate tasks and workflows.
+Familiarize yourself with the various pre-built actions and customizing workflows.
+Follow the "Getting started with GitHub Actions" guide on the official GitHub website: https://docs.github.com/en/actions/learn-github-actions/getting-started-with-github-actions
+
+Day 10: Advanced Git commands
+Learn the advanced Git commands, including rebasing, cherry-picking, and tagging.
+Familiarize yourself with the various Git workflows used in large-scale projects.
+Read the "Advanced Git" guide on the official Git website: https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging
